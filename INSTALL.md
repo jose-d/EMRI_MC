@@ -1,4 +1,4 @@
-# Installation of EMRI_MC using Python venv
+# Installation of emri_mc using Python venv
 
 EMRI_MC was tested on python 3.11 at system with NVIDIA A100 using NVIDIA CUDA 12.2.0. and cupy 13.3.
 
