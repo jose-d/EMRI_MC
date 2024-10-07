@@ -4,7 +4,7 @@ EMRI_MC was tested on python 3.11 at system with NVIDIA A100 using NVIDIA CUDA 1
 
 ## Installation using pip
 
-(make sure NVIDIA CUDA is available, install it or load it by `module load CUDA/12.2.0` if software management is available at your system.)
+Make sure NVIDIA CUDA is available, install it or load it by `module load CUDA/12.2.0` if software management is available at your system. 
 
 (optional) create empty venv: `python3.11 -m venv ~/.venvs/emri_mc_prod` and activate it: `source ~/.venvs/emri_mc_prod/bin/activate`
 
