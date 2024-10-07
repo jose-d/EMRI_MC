@@ -2,7 +2,7 @@
 
 EMRI_MC was tested on python 3.11 at system with NVIDIA A100 using NVIDIA CUDA 12.2.0. and cupy 13.3.
 
-## Installation using pip
+## A. Installation using pip
 
 Make sure NVIDIA CUDA is available, install it or load it by `module load CUDA/12.2.0` if software management is available at your system. 
 
@@ -19,7 +19,7 @@ cd EMRI_MC
 pip install .
 ```
 
-## Manual Installation of EMRI_MC using Python venv
+## B. Manual Installation of EMRI_MC using Python venv
 
 ### Runtime environment preparation
 
