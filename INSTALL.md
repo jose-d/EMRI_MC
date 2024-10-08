@@ -23,7 +23,7 @@ pip install .
 
 ### Runtime environment preparation
 
-The code was tested with Python 3.11. Make sure the development package for given Python version is installed too. Eg. at EL-like Linux distros, `dnf install python3.11-devel`.
+The code was tested with Python 3.11. Make sure the development package for given Python version is installed too. Eg. at EL-like Linux distributions, `dnf install python3.11-devel`.
 
 #### Ensure CUDA is present
 
