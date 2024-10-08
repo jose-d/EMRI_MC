@@ -95,7 +95,6 @@ pip install --upgrade pip
 The install step `Running setup.py install for cupy ...` may take a considerable amount of time. 
 The packages related to interactive Python, such as `IPython` and `ipykernel`, are only needed for the example Jupyter notebooks and are not required by the underlying library.
 
-# Notes
 
 [^1]: CUDA Toolkit - https://developer.nvidia.com/cuda-toolkit
 
